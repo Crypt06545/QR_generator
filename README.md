@@ -1,4 +1,4 @@
 # QR_generator
 <p align="center">
-  <img src="imges/QR-Data.png">
+  <img src="images/QR-Data.png">
 </p>
