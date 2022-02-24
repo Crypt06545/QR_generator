@@ -13,7 +13,7 @@ class Or_Generator:
     def __init__(self, root):
         self.root = root
         self.root.geometry("900x500+200+50")
-        self.root.title("Qr Code Generator | Create My Mehadi")
+        self.root.title("Qr-Code Generator | Create My Mehadi")
         self.root.resizable(False, False)
 
         title = Label(self.root, text="Qr Code Generator", font=("times new roman", 40), bg='#ff0000', fg='white',
